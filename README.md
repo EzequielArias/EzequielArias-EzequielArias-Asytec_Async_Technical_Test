@@ -2,7 +2,7 @@
 
 # 1. Como inicializar el proyecto.
 ##### Ejecutar comandos en la consola.
- > Instalar dependencias => npm i
+ > Instalar dependencias => npm i<br/>
  > Correr el programa => npm run dev
 
 # 2. Pasarle los parametros necesarios.
