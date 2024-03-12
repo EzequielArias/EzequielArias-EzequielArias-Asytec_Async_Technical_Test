@@ -7,8 +7,8 @@
 
 # 2. Pasarle los parametros necesarios.
 
- > Escribe el nombre del archivo ==> [ El nombre de tu archivo ]
- > Escribe la palabra a buscar ==> [ Tu palabra ]<br/>
+ > Escribe el nombre del archivo ==> [ El nombre de tu archivo ]<br/>
+ > Escribe la palabra a buscar ==> [ Tu palabra ]
 
  <p>Este ejercicio ya cuenta con un archivo adjunto en la carpeta "src". Si deseas probar la aplicación con un archivo diferente, por favor súbelo a la misma carpeta.</p>
 
